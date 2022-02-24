@@ -5,4 +5,4 @@ This is a grading system written in Java
 - Shows the maximum, average marks and standard deviation of the entire class
 
 Note:
-What you need is your file path and the file should be.txt
+What you need is your file path and the file should be .txt
